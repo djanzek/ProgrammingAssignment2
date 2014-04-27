@@ -52,6 +52,5 @@ cacheSolve <- function(x, ...) {
       x$setInverse(inverseX)
 
       ## Return the inverse.
-      inverse
-      X
+      inverseX
 }
